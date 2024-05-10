@@ -18,12 +18,12 @@ This repository contains the source code for a Food App built using ReactJS for 
 - MongoDB: NoSQL database for storing user data, recipes, and other information.
 - Authentication: Implement authentication using JWT (JSON Web Tokens) for secure user sessions.
 - RESTful API: Design and develop RESTful endpoints to handle CRUD operations for recipes, user data, etc.
-- 
+  
 # Setup Instructions
 ## Clone the repository:
 bash
 ## Copy code
-git clone https://github.com/your-username/food-app.git
+git clone (https://github.com/DeepaNikade/Food_App)
 ## Install dependencies:
 bash
 Copy code
